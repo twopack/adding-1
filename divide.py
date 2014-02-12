@@ -3,4 +3,4 @@ def divide(a,b):
     return (answer)
 
 print (divide(4,12))
-#it will divide a number with another number
+#this will bw 0.25
